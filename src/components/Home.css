@@ -1,8 +1,8 @@
 .home {
   text-align: center;
   padding: 100px 20px;
-  background: linear-gradient(135deg, #00c3ff, #0061ff);
-  color: white;
+  background: #FAF7F3;
+  color: #154D71;
 }
 
 .btn {
@@ -18,4 +18,7 @@
 
 .btn:hover {
   background: #ddd;
+}
+.pa{
+  font-size:large;
 }

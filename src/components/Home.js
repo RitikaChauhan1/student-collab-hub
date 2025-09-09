@@ -5,7 +5,7 @@ function Home() {
   return (
     <section id="home" className="home">
       <h1>Welcome to Student Collaboration Hub</h1>
-      <p>A place where students connect, share ideas, and grow together.</p>
+      <p className="pa">A place where students connect, share ideas, and grow together.</p>
       <button className="btn">Get Started</button>
     </section>
   );
