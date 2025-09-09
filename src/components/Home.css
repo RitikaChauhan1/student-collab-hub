@@ -1,0 +1,21 @@
+.home {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #00c3ff, #0061ff);
+  color: white;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: white;
+  color: #0061ff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+.btn:hover {
+  background: #ddd;
+}
