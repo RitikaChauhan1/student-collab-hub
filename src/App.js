@@ -1,4 +1,6 @@
+
 import React from "react";
+import LightRays from './components/LightRays';
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Features from "./components/Features";
@@ -14,8 +16,13 @@ function App() {
       <Features />
       <About />
       <Contact />
+
     </div>
+    
   );
 }
 
 export default App;
+
+
+
