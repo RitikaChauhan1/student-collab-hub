@@ -14,7 +14,7 @@
 }
 
 .feature-card {
-  background:  #154D71;
+  background:  #9a031e;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -24,6 +24,5 @@
   
 }
 .h2{
-  color:#154D71;
+  color:#9a031e;
 }
-

@@ -21,7 +21,7 @@
 
 .contact button {
   padding: 12px;
-  background: #0061ff;
+  background: #9a031e;
   color: white;
   border: none;
   cursor: pointer;
@@ -30,4 +30,8 @@
 
 .contact button:hover {
   background: #004bcc;
+}
+
+.h2{
+  color:#9a031e;
 }
